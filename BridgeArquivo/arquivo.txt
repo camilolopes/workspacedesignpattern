@@ -1,0 +1,4 @@
+Recibo: 
+Empresa: XX
+Cliente: Camilo Lopes
+Valor: 50.0
